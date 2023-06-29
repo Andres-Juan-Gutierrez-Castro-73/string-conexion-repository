@@ -37,4 +37,5 @@ Previo a la instalación, se debe tener un editor de código (preferiblemente Vi
 ![imagen](https://github.com/Andres-Juan-Gutierrez-Castro-73/string-conexion-repository/assets/129460418/36401291-7409-4907-996e-e2ff59b961e0)
 
 Luego, abrir el proyecto, ya sea desde la terminal o el editor y ejecutar los siguientes comandos: php artisan migrate (para ejecutar las migraciones), php artisan serve (para iniciar el servidor), debes de ir a la URL que aparece allí y como último, npm run dev, sino tienes instalado el npm, ejecuta npm install. Una vez hecho esto, la aplicación está corriendo en su navegador.
-![imagen](https://github.com/Andres-Juan-Gutierrez-Castro-73/string-conexion-repository/assets/129460418/b75bc29f-0d51-46c4-a99b-1731a052af21)
+
+![comandos_instalacion](https://github.com/Andres-Juan-Gutierrez-Castro-73/string-conexion-repository/assets/129460418/3af3f44a-9997-43c3-833d-7ff5950e24eb)
